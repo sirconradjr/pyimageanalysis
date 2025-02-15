@@ -1,4 +1,4 @@
-pyimageanalysis
+#pyimageanalysis
 
 A website that uses Python and CNN that analyze images and identifies it base on their class.
 
